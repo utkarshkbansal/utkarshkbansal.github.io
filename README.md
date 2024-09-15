@@ -16,7 +16,6 @@ This website highlights my journey, from my education to my professional experie
 
 ## Technologies Used
 - **React**: Used to build the UI components and manage the frontend logic.
-- **React Native**: Integrated for the Big Data Big Impact project display.
 - **HTML5 & CSS3**: For structuring and styling the website.
 - **JavaScript**: To add interactivity and dynamic elements.
 - **GitHub Pages**: For hosting the website.
